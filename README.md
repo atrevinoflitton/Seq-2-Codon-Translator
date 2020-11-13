@@ -2,12 +2,12 @@
 Java program to read in DNA seq file and return the three forward reading frames and their single letter protein code
 
 
+<dl>
 
+<dt> All of the following are required to run the program: </dt>
 
-# All of the following are required to run the program:
-
-# Seq2CodonTranslator.java
-- Holds the main class for the program & the method to read in the file (readFile)
+<dd> Seq2CodonTranslator.java
+- Holds the main class for the program & the method to read in the file (readFile) </dd>
 
 # processCodon.java
 - A class file with the codon parser and codon-to-amino acid converter
