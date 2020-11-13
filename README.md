@@ -13,4 +13,4 @@ Java program to read in DNA seq file and return the three forward reading frames
 - A class file with the codon parser and codon-to-amino acid converter
 
 # file.seq
--A simple DNA sequence to test the program
+- A simple DNA sequence to test the program
