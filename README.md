@@ -8,7 +8,7 @@ Java program to read in DNA seq file and return the three forward reading frames
 <dd>
 
 
-  Seq2CodonTranslator.java /n
+  Seq2CodonTranslator.java 
   - Holds the main class for the program & the method to read in the file (readFile) 
   
   ---
