@@ -5,6 +5,7 @@ Java program to read in DNA seq file and return the three forward reading frames
 <dl>
 
 <dt> All of the following are required to run the program: </dt>
+
 <dd>
 
 
